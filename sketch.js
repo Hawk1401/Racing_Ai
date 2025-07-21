@@ -13,7 +13,7 @@ let innerTrack = [];
 let outertrack = [];
 
 function preload() {
-  img = loadImage("http://localhost:8000/image/car.png");
+  img = loadImage("/image/car.png");
 }
 //reday
 function setup() {
