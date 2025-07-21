@@ -13,7 +13,7 @@ let innerTrack = [];
 let outertrack = [];
 
 function preload() {
-  img = loadImage("/image/car.png");
+  img = loadImage("/Racing_Ai/image/car.png");
 }
 //reday
 function setup() {
